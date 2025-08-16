@@ -18,10 +18,10 @@ Before diving into arrays and OOPs, I built a strong foundation in:
 These basics helped me understand how logic flows and how to dry-run code effectively.
 
 ## 📚 Topics Covered
-
+-  🧱 Foundation Level - Variables and Data Types , Loops (for, while, do-while),Conditional Statements (if-else, switch),Input/Output in Java, Functions and Methods (return types, parameters, calling)
 - 🔢 Arrays
 - 🔲 Matrix Operations
-- 🧠 Object-Oriented Programming (OOPs)
+- 🧠 Core java ConceptsObject-Oriented Programming (OOPs)
 - 🛠️ Mini Projects
 
 ## 🗂️ Folder Structure
